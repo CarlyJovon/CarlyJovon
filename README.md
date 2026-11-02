@@ -19,8 +19,6 @@ I'm a Software Engineer with a background in Social Work and Operations. I care 
 
 ## What I'm Building: 
 
-🧠 **Brain Drain**: A full-stack application designed to help people reduce mental clutter by creating a space to capture, organize, and reflect on everyday thoughts, making it easier to decide on what deserves your attention.
-
 💖 **Mother**: A full-stack application rooted in the idea of *"Mothering the Mother"*. Designed with postpartum recovery and maternal well-being in mind, Mother explores how technology can support parents in caring for themselves while navigating the the everyday work of caring for their families.
 
 ## 🌱 Fun Facts: 
