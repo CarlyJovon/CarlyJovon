@@ -19,10 +19,10 @@ I'm a Software Engineer with a background in Social Work and Operations. I care 
 
 ## What I'm Building: 
 
-💖 **Mother**: A full-stack application rooted in the idea of *"Mothering the Mother"*. Designed with postpartum recovery and maternal well-being in mind, Mother explores how technology can support parents in caring for themselves while navigating the the everyday work of caring for their families.
+**Mother**: A full-stack application rooted in the idea of *"Mothering the Mother"*. Designed with postpartum recovery and maternal well-being in mind, Mother explores how technology can support parents in caring for themselves while navigating the the everyday work of caring for their families.
 
-## 🌱 Fun Facts: 
-🏰 I once contributed to **Burgbau Friesach**, a living-history project in Austria where a medieval castle is being built using authentic 12th-century construction methods and no modern tools. The project is expected to be completed in 20249!
+## Fun Facts: 
+🏰 I once contributed to **Burgbau Friesach**, a living-history project in Austria where a medieval castle is being built using authentic 12th-century construction methods and no modern tools. The project is expected to be completed in 2049!
 
 🤰 I'm a trained Birth and Postpartum Doula.
 
